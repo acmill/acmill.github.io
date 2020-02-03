@@ -1,9 +1,7 @@
-## Welcome to my website
+# Tony Miller
 
-
-### This is the index for all of my github pages projects.
-
-Below is a list of all of them:
+## This is the index for all of my github pages projects.
+Below is a list of them:
 
 
 1. [Resume / CV](/me/)
