@@ -8,28 +8,12 @@ Below is a list of all of them:
 
 1. [Resume / CV](/me/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Contact Me
-Below is a list of social
+Below is a list of social links that you can use to reach me directly:
+- [Github](github.con/acmill)
+- [LinkedIn](linkedin.com/in/millerfile)
+- [Telegram](https://telegram.me/tonycoleman)
 
 
 ### Support or Contact
