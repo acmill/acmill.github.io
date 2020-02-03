@@ -11,7 +11,7 @@ Below is a list of all of them:
 
 ### Contact Me
 Below is a list of social links that you can use to reach me directly:
-- [Github](https://github.con/acmill)
+- [Github](https://github.com/acmill)
 - [LinkedIn](https://linkedin.com/in/millerfile)
 - [Telegram](https://telegram.me/tonycoleman)
 
