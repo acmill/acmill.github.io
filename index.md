@@ -6,7 +6,7 @@
 Below is a list of all of them:
 
 
-1.
+1. [Resume / CV](tony-coleman.com/me/)
 
 ```markdown
 Syntax highlighted code block
